@@ -1,22 +1,17 @@
 body {
     font-size: 16px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #c0d1ea; 
 }
 
 p {
     line-height: 1.5; /* line height */
 }
 
-
 img {
     max-height: 400px;
 }
 
-
-body {
-    background-color: #c0d1ea; 
-}
-
 .highlight {
-    color: blue; /* color you prefer */
+    color: blue; /* You can change 'blue' to any color you prefer */
 }
