@@ -4,8 +4,9 @@ body {
 }
 
 p {
-    line-height: 1.5em; 
+    line-height: 1.5; /* line height */
 }
+
 
 img {
     max-height: 400px;
@@ -17,5 +18,5 @@ body {
 }
 
 .highlight {
-    color: blue; /* You can change 'blue' to any color you prefer */
+    color: blue; /* color you prefer */
 }
